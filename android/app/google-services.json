@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "531459620591",
+    "project_id": "buddy-guardian",
+    "storage_bucket": "buddy-guardian.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531459620591:android:ce536b7c64aca6aa0de51a",
+        "android_client_info": {
+          "package_name": "buddyguardian.challenge.gs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531459620591-qfs9pogllkel0r06k19ue294scec7go1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "buddyguardian.challenge.gs",
+            "certificate_hash": "5128389a4c55ffd516d90079bf8f941e6edd2693"
+          }
+        },
+        {
+          "client_id": "531459620591-u1blrq1c5rc98tss9ql091mifnc8bjgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN69_27ZvN-YtgtIy5jUO-tO8MrCC-7hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531459620591-u1blrq1c5rc98tss9ql091mifnc8bjgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531459620591-04hfgil0tq2c0iojp3gcko78epcb63od.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.buddyGuardian"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
